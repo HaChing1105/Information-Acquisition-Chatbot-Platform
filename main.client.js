@@ -1,9 +1,3 @@
-/*
-    ELIZA Meteor Template Created by CHEN, Tsung-Ying
-    for the NTHU course "Basic Web Linguistic Application Development"
-    Last Updated on Dec 17, 2018
-*/
-
 var conversationLogDB = new Mongo.Collection("conversationLog");
 var conversationLog = new ReactiveVar("ELIZA: How are you doing?");
 
