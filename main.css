@@ -1,0 +1,38 @@
+body{
+	font-family: 'PT Serif', serif;
+	font-size: 1.5vw;
+	text-align: center;
+	color: #8F573A;
+	
+	border-radius: 1.0vw;
+	background-image:url('https://i.pinimg.com/originals/a1/53/d8/a153d85cbe009aca42502b6132c4e8ee.png');
+　	background-repeat:no-repeat;
+　	background-color: #ed6899;
+}
+
+a{
+	color: #8F573A;
+	text-decoration: none;
+}
+a:hover{
+	color: #8F573A;
+}
+
+.buttons{
+	background-color: white;
+	color: black;
+	font-family: 'PT Serif', seprif;
+	font-size: 1.3vw;
+	padding: 0.2vw;
+	border-radius: 0.5vw;
+}
+.buttons:hover{
+	background-color: #9D4815;
+	color: white;
+	font-weight: bold;
+	cursor: pointer;
+}
+#conversationBox{
+	height: 48vh;
+	width: 50vw;
+}
